@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/OpenBootcamp.iml" filepath="$PROJECT_DIR$/.idea/OpenBootcamp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_avanzado/sesiones_3_4_5/sesion4/demoSpringRest/demoSpringRest.iml" filepath="$PROJECT_DIR$/java_avanzado/sesiones_3_4_5/sesion4/demoSpringRest/demoSpringRest.iml" />
+    </modules>
+  </component>
+</project>
